@@ -1,0 +1,30 @@
+body{
+    background-image: url("http://www.powerpointhintergrund.com/uploads/newsprint-texture-background-6.jpeg")
+}
+
+.navbar{
+    border-radius: 5px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-family: "Raleway";
+    font-size: 30px;
+}
+
+.navbar-inverse .navbar-brand:hover{
+    color:lightblue;
+}
+
+.nav-tabs {
+    border-bottom: none;
+    margin-right: 5px;
+    margin-top: 3px;
+}
+
+
+a{
+    color:white;
+    font-family: "Raleway";
+    font-size: 20px;
+}
