@@ -32,3 +32,23 @@ a{
 a:hover{
     color:grey;
 }
+
+.jumbotron{
+    width:89%;
+    margin-left: 70px;
+    border-radius: 10px;
+    height: 600px;
+}
+
+img{
+    border: 10px white solid;
+    float: left;
+    margin:30px;
+    border-radius: 5px; 
+}
+
+p{
+    margin-left: 5px;
+    margin-top: 25px;
+}
+
